@@ -39,13 +39,13 @@ python youtube_summarizer.py --video_url <YouTube Video URL>
 ```
 
 ## Results & Conclusion
-- **The T5 model provides accurate and meaningful summaries of YouTube transcripts.
-- **The summarizer improves content consumption efficiency for long videos.
-- **Future enhancements include multi-language support and interactive UI for better usability.
+- The T5 model provides accurate and meaningful summaries of YouTube transcripts.
+- The summarizer improves content consumption efficiency for long videos.
+- Future enhancements include multi-language support and interactive UI for better usability.
 
-##Future Improvements
-- **Support for multi-language summarization.
-- **Integration with speech-to-text models for videos without transcripts.
-- **Web or Mobile Application for easier accessibility.
+## Future Improvements
+- Support for multi-language summarization.
+- Integration with speech-to-text models for videos without transcripts.
+- Web or Mobile Application for easier accessibility.
 
 This project demonstrates how NLP and Transformers can improve content accessibility and information retrieval in video-based platforms.
